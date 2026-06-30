@@ -17,6 +17,12 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
     </a>
   </p>
+
+  <!-- High-stability GitHub stats badges -->
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/asamahamed?label=Followers&style=flat-square&color=blue" alt="Followers" />
+    <img src="https://img.shields.io/github/directory-dependents/asamahamed/asamahamed?label=Repositories&style=flat-square&color=green" alt="Repos" />
+  </p>
 </div>
 
 ---
@@ -62,6 +68,18 @@ I am an **Associate DevOps & Software Engineer** with hands-on experience develo
     </td>
   </tr>
 </table>
+
+---
+
+### 💻 Developer Environment & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+</div>
 
 ---
 
