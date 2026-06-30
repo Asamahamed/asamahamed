@@ -61,6 +61,14 @@ I am an **Associate DevOps & Cloud Engineer** with hands-on experience designing
 
 ---
 
+### ⚙️ Methodologies & Best Practices
+
+- 🛡️ **Security & Compliance:** IAM Policy Design, Least-Privilege Access Controls, DevSecOps Tool Integration (SonarQube)
+- 🌐 **Cloud Networking:** VPC Architecture, public/private subnets, security groups, NAT Gateways, IPsec VPN Tunnels
+- ⚠️ **Incident & SRE Operations:** 24/7 Production Incident Rotation Support (SLA-driven resolution), observability, alerts engineering
+
+---
+
 ### 📊 GitHub Analytics & Focus
 
 <div align="center">
@@ -74,6 +82,11 @@ I am an **Associate DevOps & Cloud Engineer** with hands-on experience designing
       </td>
     </tr>
   </table>
+  
+  <br/>
+  
+  <!-- Modern visual contribution activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asamahamed&theme=tokyonight&bg_color=0f1626" width="100%" alt="Activity Graph" />
 </div>
 
 ---
