@@ -21,7 +21,7 @@
   <!-- High-stability GitHub stats badges -->
   <p align="center">
     <img src="https://img.shields.io/github/followers/asamahamed?label=Followers&style=flat-square&color=blue" alt="Followers" />
-    <img src="https://img.shields.io/github/directory-dependents/asamahamed/asamahamed?label=Repositories&style=flat-square&color=green" alt="Repos" />
+    <img src="https://img.shields.io/badge/Repositories-39-green?style=flat-square" alt="Repos" />
   </p>
 </div>
 
