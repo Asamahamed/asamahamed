@@ -72,15 +72,29 @@ I am an **Associate DevOps & Software Engineer** with hands-on experience develo
 
 ---
 
+### 💼 Professional Experience
+
+👨‍💻 **Associate DevOps & Cloud Engineer** | **Randoli.inc** (Remote, Canada)
+*April 2025 – Present*
+- Deploy, operate, and maintain AWS SaaS platforms hosting containerized services.
+- Write reusable **Terraform** modules to provision secure VPCs, subnets, custom routing, and security groups.
+- Configure virtual VPN appliances (Sophos) for secure remote environment connectivity.
+- Troubleshoot OS errors, network pathing bottlenecks, and security group rules.
+
+🛠️ **Software Engineering Intern** | **Randoli.inc** (Remote, Canada)
+*September 2024 – March 2025*
+- Collaborated to containerize Node.js and Java backend services using **Docker**.
+- Built automated CI/CD jobs using **Jenkins** incorporating code quality and security scanning tools.
+- Wrote SQL migration scripts and managed MySQL schema changes.
+
+---
+
 ### 💻 Key Projects
 
-#### 🌐 Software Engineering Projects
-* **[Golang API Services](https://github.com/asamahamed/Golang-API)**: A high-performance RESTful API developed in Go using Gin, featuring PostgreSQL database integration via `pgx/v5` and comprehensive unit testing.
-* **[Employee Management System](https://github.com/asamahamed/EmployeeMng_FrontEnd_New)**: A full-stack CRUD application featuring a responsive React.js frontend interface and database connections.
-
-#### 🛡️ DevOps & Infrastructure Projects
-* **[Automated AWS Multi-AZ VPC](https://github.com/asamahamed/aws-multi-az-vpc)**: Terraform-managed infrastructure provisioning public/private subnets across multiple availability zones with custom routing and security configurations.
-* **[Kubernetes Monitoring Stack](https://github.com/asamahamed/k8s-monitoring-pipeline)**: Complete cluster observability deployment using Grafana, Prometheus, and Loki for real-time log analysis and microservice metric aggregation.
+- **[Automated AWS Multi-AZ VPC](https://github.com/asamahamed/aws-multi-az-vpc)**: Reusable Terraform configuration mapping public/private subnets across multiple AZs with NAT Gateways for secure egress.
+- **[Kubernetes Observability Pipeline](https://github.com/asamahamed/k8s-monitoring-pipeline)**: Grafana, Prometheus, and Loki deployment for monitoring metrics and aggregating logs.
+- **[Golang REST API](https://github.com/asamahamed/Golang-API)**: Go-based CRUD database service with PostgreSQL integration and secure hashing.
+- **[Employee Management Front-End](https://github.com/asamahamed/EmployeeMng_FrontEnd_New)**: React.js interface with automated container builds using Docker and Nginx.
 
 ---
 
