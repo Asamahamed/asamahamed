@@ -1,16 +1,21 @@
-<!-- Header Section with a custom styled banner or logo layout -->
 <div align="center">
-  <img src="https://capsule-render.herokuapp.com/height=180&type=glass&color=auto&text=Asam%20Ahamed&fontSize=50&animation=fadeIn" width="100%" alt="Header Banner" />
+  <h1>👋 Hi, I'm Asam Ahamed</h1>
   
-  <br/>
-  
-  <h3>🚀 Associate DevOps & Cloud Engineer</h3>
-  <p><b>AWS Certified Solutions Architect (Associate) • Infrastructure as Code Specialist • Container & Observability Advocate</b></p>
-
-  <!-- Status badges -->
+  <!-- Dynamic Typing SVG for a highly professional, interactive look -->
   <p align="center">
-    <a href="https://linkedin.com/in/asam-ahamed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:asamahamed487@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=39E5A5&center=true&vCenter=true&width=450&lines=Associate+DevOps+Engineer;AWS+%26+Cloud+Specialist;IaC+%26+Kubernetes+Engineer" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <!-- Clean, modern layout for connection links -->
+  <p align="center">
+    <a href="https://linkedin.com/in/asam-ahamed" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a href="mailto:asamahamed487@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    </a>
   </p>
 </div>
 
@@ -18,7 +23,7 @@
 
 ### 💻 Profile Overview
 
-Hi, I'm **Asam Ahamed**, an **Associate DevOps & Cloud Engineer** with hands-on experience designing, provisioning, and securing AWS-hosted SaaS environments. I specialize in automate-everything pipelines, Infrastructure as Code (IaC) architectures, and cloud networking with VPCs, VPN tunnels, and security compliance.
+I am an **Associate DevOps & Cloud Engineer** with hands-on experience designing, provisioning, and securing AWS-hosted SaaS environments. I specialize in automate-everything pipelines, Infrastructure as Code (IaC) architectures, and cloud networking with VPCs, VPN tunnels, and security compliance.
 
 ---
 
