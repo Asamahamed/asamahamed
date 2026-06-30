@@ -1,27 +1,20 @@
 <div align="center">
   <h1>👋 Hi, I'm Asam Ahamed</h1>
   
-  <!-- Dynamic Typing SVG for Software Engineering & DevOps -->
+  <!-- Dynamic Typing SVG for Software Engineering & DevOps (High Reliability) -->
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=39E5A5&center=true&vCenter=true&width=480&lines=Software+Engineer+%26+DevOps+Specialist;AWS+Cloud+%26+Full-Stack+Developer;Java%2C+Go%2C+Python+%26+React+Developer" alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- Clean connection links -->
+  <!-- Clean connection links (High Reliability Shields.io) -->
   <p align="center">
     <a href="https://linkedin.com/in/asam-ahamed" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <a href="mailto:asamahamed487@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-    </a>
-  </p>
-  
-  <!-- Premium GitHub Profile Trophies -->
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=asamahamed&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="GitHub Trophies" />
     </a>
   </p>
 </div>
@@ -109,7 +102,7 @@ I am an **Associate DevOps & Software Engineer** with hands-on experience develo
 ### 📊 GitHub Activity
 
 <div align="center">
-  <!-- Dynamic contribution activity graph -->
+  <!-- Dynamic contribution activity graph (Highly Stable) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asamahamed&theme=tokyonight&bg_color=0f1626" width="100%" alt="Activity Graph" />
 </div>
 
