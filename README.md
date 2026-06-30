@@ -17,7 +17,19 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
     </a>
   </p>
+  
+  <!-- Premium GitHub Profile Trophies -->
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=asamahamed&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="GitHub Trophies" />
+    </a>
+  </p>
 </div>
+
+---
+
+### 📖 Professional Philosophy
+> *"Simplicity is the ultimate sophistication in software; automation is the ultimate efficiency in infrastructure."*
 
 ---
 
@@ -69,6 +81,14 @@ I am an **Associate DevOps & Software Engineer** with hands-on experience develo
 #### 🛡️ DevOps & Infrastructure Projects
 * **[Automated AWS Multi-AZ VPC](https://github.com/asamahamed/aws-multi-az-vpc)**: Terraform-managed infrastructure provisioning public/private subnets across multiple availability zones with custom routing and security configurations.
 * **[Kubernetes Monitoring Stack](https://github.com/asamahamed/k8s-monitoring-pipeline)**: Complete cluster observability deployment using Grafana, Prometheus, and Loki for real-time log analysis and microservice metric aggregation.
+
+---
+
+### 🌟 Milestones & Current Focus
+
+- 🎯 **Current Focus:** Deep-diving into **Cloud Native System Design** and **Distributed Consensus Systems**.
+- 📖 **Learning & Exploring:** Rust for Systems Programming, Advanced GitOps with ArgoCD.
+- 🎓 **Academic Path:** Final year software engineering student graduating in 2026.
 
 ---
 
